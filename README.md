@@ -76,14 +76,12 @@ The models are evaluated using:
 
 ---
 
-## 📁 Project Structure
-
-```text
 Breast-Cancer-Prediction/
 │
 ├── breast-cancer-prediction-using-machine-learning.ipynb
 ├── data.csv
 ├── README.md
+├── LICENSE
 └── .gitignore
 ```
 
@@ -136,19 +134,3 @@ The notebook compares multiple machine learning models and evaluates their perfo
 - Save trained models with Joblib
 - Add feature importance visualization
 - Build an interactive prediction interface
-
----
-
-## 👨‍💻 Author
-
-**Joditya**
-
-B.Tech (Instrumentation & Control Engineering)
-
-Interested in Machine Learning, AI, and Data Science.
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
